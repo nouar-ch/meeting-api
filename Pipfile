@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 holidays = "*"
+flask = "*"
 
 [dev-packages]
 
