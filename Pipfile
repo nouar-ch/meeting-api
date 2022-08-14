@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 holidays = "*"
 flask = "*"
+pyrfc3339 = "*"
 
 [dev-packages]
 
