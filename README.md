@@ -46,3 +46,10 @@ curl --location --request POST 'http://127.0.0.1:5000/api/v1/calculate-best-date
 ```bash
 python ./test.py
 ```
+
+## Run with docker
+
+```bash
+docker build . -t meeting:1.0
+docker run --rm meeting:1.0
+```
